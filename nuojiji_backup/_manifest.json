@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790212866791,
+  "timestamp": 1790212874455,
   "appVersion": "6.9.82 (2026.09.22)",
   "tables": [
     "characters",
@@ -152,7 +152,8 @@
     "jiliDMs": true,
     "mapRasterCache": true,
     "shareLinkMeta": true,
-    "customGameSaves": true
+    "customGameSaves": true,
+    "customWidgetTemplates": true
   },
   "inProgress": true
 }
